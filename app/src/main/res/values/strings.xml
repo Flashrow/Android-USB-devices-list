@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IwskUSB</string>
+    <string name="checkUsbLabel">Sprawdź urządzenia USB</string>
+    <string name="listUsbBtn">Listuj urządzenia</string>
+</resources>
